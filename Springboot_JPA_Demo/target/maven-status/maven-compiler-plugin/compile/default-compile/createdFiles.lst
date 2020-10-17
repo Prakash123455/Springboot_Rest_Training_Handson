@@ -1,0 +1,8 @@
+com\sujata\persistence\ItemDao.class
+com\sujata\bean\Item.class
+com\sujata\util\ItemHelper.class
+com\sujata\service\ItemServiceImpl.class
+com\sujata\demo\FirstSpringbootdataJpaDemoApplication.class
+com\sujata\presentation\ItemUIImpl.class
+com\sujata\service\ItemService.class
+com\sujata\presentation\ItemUI.class
