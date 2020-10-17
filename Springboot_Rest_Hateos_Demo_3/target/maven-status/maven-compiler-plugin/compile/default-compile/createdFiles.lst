@@ -1,0 +1,7 @@
+com\sujata\resources\ItemResource.class
+com\sujata\persistence\ItemDao.class
+com\sujata\demo\SpringbootRestSecondDemoApplication.class
+com\sujata\bean\Item.class
+com\sujata\service\ItemServiceImpl.class
+com\sujata\service\ItemService.class
+com\sujata\demo\ServletInitializer.class
